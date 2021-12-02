@@ -1,3 +1,3 @@
-fn main() {
-    println!("Hello, world!");
+aoc_main::main! {
+    year 2021;
 }
